@@ -1,7 +1,7 @@
 {
   "name": "@jesperjohansson/react-native-ultimate-config",
   "title": "React Native Ultimate Config",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "publishConfig": {
     "access": "public"
   },

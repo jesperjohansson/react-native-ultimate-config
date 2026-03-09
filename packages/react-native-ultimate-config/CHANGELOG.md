@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.1.0](https://github.com/maxkomarychev/react-native-ultimate-config/compare/v7.0.0...v7.1.0) (2026-03-09)
+
+
+### Features
+
+* npm fork ([5041371](https://github.com/maxkomarychev/react-native-ultimate-config/commit/504137118579fc8b6d373182e3f4e85c5eff5a21))
+
 ## [7.0.0](https://github.com/maxkomarychev/react-native-ultimate-config/compare/v6.0.1...v7.0.0) (2026-03-09)
 
 
