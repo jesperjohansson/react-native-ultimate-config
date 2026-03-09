@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.1.3](https://github.com/maxkomarychev/react-native-ultimate-config/compare/v7.1.2...v7.1.3) (2026-03-09)
+
+
+### Bug Fixes
+
+* mm file was not included in npm package ([c90a6da](https://github.com/maxkomarychev/react-native-ultimate-config/commit/c90a6da7e43c708a76a927aea9cad3bc0a51bed7))
+
 ### [7.1.2](https://github.com/maxkomarychev/react-native-ultimate-config/compare/v7.1.1...v7.1.2) (2026-03-09)
 
 
