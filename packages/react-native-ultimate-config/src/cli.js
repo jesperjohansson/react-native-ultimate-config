@@ -10,7 +10,12 @@ module.exports = async function () {
   const project_root = yargs.argv.projectRoot;
   yargs.default(
     "libRoot",
-    path.join(project_root, "node_modules", "react-native-ultimate-config")
+    path.join(
+      project_root,
+      "node_modules",
+      "@jesperjohansson",
+      "react-native-ultimate-config",
+    ),
   );
   const lib_root = yargs.argv.libRoot;
 
