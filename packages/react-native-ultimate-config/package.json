@@ -13,7 +13,7 @@
     "src/*.js",
     "src/*.ts",
     "src/templates",
-    "ios/UltimateConfig.{h,m}",
+    "ios/UltimateConfig.{h,m,mm}",
     "ios/ConfigValues.h",
     "ios/UltimateConfig.xcodeproj/project.pbxproj",
     "android/src",
